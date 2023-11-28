@@ -2,7 +2,6 @@
 // Address all the TODOs to make the tests pass!
 // Execute `starklings hint starknet5` or use the `hint` watch subcommand for a hint.
 
-
 use core::traits::Into;
 use core::result::ResultTrait;
 use starknet::syscalls::deploy_syscall;
